@@ -1,12 +1,12 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
+  - title: RIPPLECOT: Amplifying Ripple Effect of Knowledge Editing in Language Models via Chain-of-Thought In-Context Learning
+    authors: <strong>Zihao Zhao</strong>, Yuchen Yang, Yijiang Li, Yinzhi Cao
+    conference_short: EMNLP Findings
+    conference:  Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2024.
+    pdf: https://arxiv.org/abs/2410.03122 
+    code: https://github.com/zzhao71/RippleCOT
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:9T_-rzjOqfUJ:scholar.google.com/&output=citation&scisdr=CgLFKSDcEMKV4Va5jGY:AAZF9b8AAAAAaJe_lGYeYjNqI322ctavecEVeeQ&scisig=AAZF9b8AAAAAaJe_lLaWuKVsI3AvkYZkBaWc-aY&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/teaser_example_2.png
     notes: Early Accept
 
