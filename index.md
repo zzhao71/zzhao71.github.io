@@ -22,4 +22,3 @@ I welcome opportunities for collaboration. If you are interested in working toge
 ## Teaching
 I was a teaching assistant for the following courses:
 - Time Series Analysis (Spring 2024, Spring 2025)
-s
