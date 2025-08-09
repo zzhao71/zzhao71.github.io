@@ -10,6 +10,8 @@ My research focuses on developing algorithms and systems for trustworthy AI, spe
 
 Previously, I completed my undergraduate studies at Johns Hopkins University with a double major in Computer Science and Applied Mathematics, and a minor in Psychology.
 
+I welcome opportunities for collaboration. If you are interested in working together, please don't hesitate to contact me at zzhao71[at]jhu.edu.
+
 ## News
 
 
@@ -20,3 +22,4 @@ Previously, I completed my undergraduate studies at Johns Hopkins University wit
 ## Teaching
 I was a teaching assistant for the following courses:
 - Time Series Analysis (Spring 2024, Spring 2025)
+s
