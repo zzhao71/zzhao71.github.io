@@ -16,3 +16,7 @@ Previously, I completed my undergraduate studies at Johns Hopkins University wit
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+
+## Teaching
+I was a teaching assistant for the following courses:
+- Time Series Analysis (Spring 2024, Spring 2025)
