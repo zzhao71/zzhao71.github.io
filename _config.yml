@@ -6,7 +6,7 @@ email: zzhao71@jhu.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
+keywords: Zihao Zhao, PhD Student, Johns Hopkins University, Computer Science, Machine Learning, Artificial Intelligence
 description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
 canonical: https://minimal-light-theme.yliu.me/
 
@@ -14,7 +14,7 @@ canonical: https://minimal-light-theme.yliu.me/
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/
 cv_link: assets/files/curriculum_vitae.pdf
-github_link: https://github.com/
+github_link: https://github.com/zzhao71
 linkedin: https://www.linkedin.com/
 twitter: https://twitter.com/
 
