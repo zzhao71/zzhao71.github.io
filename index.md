@@ -4,7 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am a first-year Ph.D. student at Johns Hopkins University.
+I am a first-year Ph.D. student at the Center for Language and Speech Processing at [Johns Hopkins University](https://www.jhu.edu/), where I am fortunate to be advised by Anjalie Field and Yinzhi Cao.
+
+I completed my undergraduate studies at Johns Hopkins University with a double major in Computer Science and Applied Mathematics, and a minor in Psychology.
 
 ## Research Interests
 
@@ -13,10 +15,6 @@ I am a first-year Ph.D. student at Johns Hopkins University.
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
 
 {% include_relative _includes/publications.md %}
 
