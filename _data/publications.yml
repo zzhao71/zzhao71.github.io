@@ -6,7 +6,7 @@ main:
     conference: In Submission
     pdf: https://arxiv.org/abs/2507.07229
     code: https://github.com/kr-ramesh/synthtexteval
-    bibtex: ./assets/files/syntext.bib
+    bibtex: ./assets/files/syntext.html
     image: ./assets/img/SynthTextEval.png
 
   - title: "RIPPLECOT: Amplifying Ripple Effect of Knowledge Editing in Language Models via Chain-of-Thought In-Context Learning"
