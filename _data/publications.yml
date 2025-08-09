@@ -1,21 +1,20 @@
 main:
 
+  - title: "SynthTextEval: Synthetic Text Data Generation and Evaluation for High-Stakes Domains"
+    authors: Krithika Ramesh, Daniel Smolyak, <strong>Zihao Zhao</strong>, Nupoor Gandhi, Ritu Agarwal, Margrét Bjarnadóttir, Anjalie Field
+    conference_short: In Submission
+    conference: In Submission
+    pdf: https://arxiv.org/abs/2507.07229
+    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    notes: Oral Presentation
+    image: ./assets/img/teaser_example.png
+
   - title: "RIPPLECOT: Amplifying Ripple Effect of Knowledge Editing in Language Models via Chain-of-Thought In-Context Learning"
     authors: <strong>Zihao Zhao</strong>, Yuchen Yang, Yijiang Li, Yinzhi Cao
     conference_short: EMNLP Findings
     conference:  Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2024.
     pdf: https://arxiv.org/abs/2410.03122 
     code: https://github.com/zzhao71/RippleCOT
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:W02sYSea5Z8J:scholar.google.com/&output=citation&scisdr=CgLFKSDcEMKV4VbFym8:AAZF9b8AAAAAaJfD0m8mEBO0gMGHwue8Ie9GvCg&scisig=AAZF9b8AAAAAaJfD0jqhL6M0KVTFTvqeCgz_H6Q&scisf=4&ct=citation&cd=-1&hl=en
+    bibtex: ./assets/files/ripplecot.bib
     image: ./assets/img/ripplecot.png
-
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
