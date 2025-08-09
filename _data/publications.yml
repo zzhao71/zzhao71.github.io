@@ -7,8 +7,7 @@ main:
     pdf: https://arxiv.org/abs/2410.03122 
     code: https://github.com/zzhao71/RippleCOT
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:W02sYSea5Z8J:scholar.google.com/&output=citation&scisdr=CgLFKSDcEMKV4VbFym8:AAZF9b8AAAAAaJfD0m8mEBO0gMGHwue8Ie9GvCg&scisig=AAZF9b8AAAAAaJfD0jqhL6M0KVTFTvqeCgz_H6Q&scisf=4&ct=citation&cd=-1&hl=en
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+    image: ./assets/img/ripplecot.pdf
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
