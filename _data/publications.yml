@@ -15,5 +15,5 @@ main:
     conference:  Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2024.
     pdf: https://arxiv.org/abs/2410.03122 
     code: https://github.com/zzhao71/RippleCOT
-    bibtex: ./assets/files/ripplecot.bib
+    bibtex: ./assets/files/ripplecot.html
     image: ./assets/img/ripplecot.png
