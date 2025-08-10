@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a first-year Ph.D. student at the [Center for Language and Speech Processing](https://www.clsp.jhu.edu/) at [Johns Hopkins University](https://www.jhu.edu/), where I am fortunate to be advised by [Anjalie Field](https://anjalief.github.io/) and [Yinzhi Cao](https://yinzhicao.org/).
+I am a first-year Ph.D. student at the [Center for Language and Speech Processing](https://www.clsp.jhu.edu/) at [Johns Hopkins University](https://www.jhu.edu/), where I am fortunate to be co-advised by [Anjalie Field](https://anjalief.github.io/) and [Yinzhi Cao](https://yinzhicao.org/).
 
 My research focuses on developing algorithms and systems for trustworthy AI, specifically addressing safety, privacy, and alignment challenges in large language and vision models.
 
